@@ -45,11 +45,11 @@ This is a .NET appication. It contains two application and source code.
 ## Output
 
 *   http://Demoapp/api/sample
-   ![alt text](https://github.com/Demoforsource/WebAPIDemo2/blob/master/sampleapp1.png)
+*  ![alt text](https://github.com/Demoforsource/WebAPIDemo2/blob/master/sampleapp1.png)
 *   http://Demoapp/api/product
-   ![alt text](https://github.com/Demoforsource/WebAPIDemo2/blob/master/sampleapp2.png)
+*   ![alt text](https://github.com/Demoforsource/WebAPIDemo2/blob/master/sampleapp2.png)
 *   http://Demoapp/api/product/1001
-   ![alt text](https://github.com/Demoforsource/WebAPIDemo2/blob/master/sampleapp3.png)
+*    ![alt text](https://github.com/Demoforsource/WebAPIDemo2/blob/master/sampleapp3.png)
 
 
 I would love to hear your [feedback]
