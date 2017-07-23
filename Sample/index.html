@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Sample Application</title>
+  <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+  
+ <link rel="stylesheet" href="css/style.css">
+
+  <script>
+  function getsampleapi()
+  {
+  var sampledata='';
+ 
+		 $.getJSON('http://demoapp/api/sample', function (data) {
+		 console.log(data.parameters);
+		
+    $("p.demo-container")  .html( "<br>"+data.parameters+"</br>" );
+  });
+
+  
+}
+
+
+function getallproducts()
+  {
+  var sampledata='';
+ 
+	$.getJSON('http://demoapp/api/product', function (data) {
+	$.each(data, function() {
+	
+		$.each(this, function(i, item) {
+		
+		$("p.demo-container").append( "<br>"+item.ProductId+ ":"+ item.ProductName +"</br>" );
+						});
+				});		
+  });
+
+  
+}
+
+function getproductbyid()
+  {
+  
+ var id= $('#txtProductid').val();
+ if(id!=null && id!='')
+ { 
+	var api='http://demoapp/api/product/'+id;
+  var sampledata='';
+ 
+	$.getJSON(api, function (data) {
+	
+		$.each(data, function() {
+	
+		$.each(this, function(i, item) {
+			
+		$("p.demo-container").append("<h3>" + "Your Searched Product is here!"+" </h3>");
+		$("p.demo-container").append( "<br>"+item.ProductId+ ":"+ item.ProductName +"</br>" );
+		$("p.demo-container").append("<hr>");
+						});
+				});		
+				
+  });
+  }
+  else
+  {
+  alert('Please enter Product id.');
+  }
+
+  
+}
+</script>
+</head>
+
+<body>
+  <div class="wrap">
+  <h1>This is Demo Page</h1>
+  <div class="task">
+    <div class="abstract">
+      <h3>Sample Message</h3>
+	   <h3><a href="#" onclick="javascript:getsampleapi();">Click here for Sample Message </a></h3>
+	    <h3><a href="#" onclick="javascript:getallproducts();">Click here to access All Products </a></h3>
+		 <h3><a href="#" onclick="javascript:getproductbyid();">Enter product id and Click here  </a></h3>
+		 <input id="txtProductid" type="text" value="1001" />
+      <p></p>
+    </div>
+    <div class="details">
+      <div class="details__inner">
+        <h3>
+        <p class="demo-container"> </p></h3>
+      </div>
+    </div>
+  </div>
+</div>
+  
+  
+</body>
+</html>

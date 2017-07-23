@@ -1,0 +1,16 @@
+C:\Test\DemoApp\BusinessServices\bin\Release\AutoMapper.Net4.dll
+C:\Test\DemoApp\BusinessServices\bin\Release\BusinessServices.dll
+C:\Test\DemoApp\BusinessServices\bin\Release\BusinessServices.pdb
+C:\Test\DemoApp\BusinessServices\bin\Release\AutoMapper.dll
+C:\Test\DemoApp\BusinessServices\bin\Release\BusinessEntities.dll
+C:\Test\DemoApp\BusinessServices\bin\Release\BusinessEntities.pdb
+C:\Test\DemoApp\BusinessServices\bin\Release\AutoMapper.pdb
+C:\Test\DemoApp\BusinessServices\bin\Release\AutoMapper.xml
+C:\Test\DemoApp\BusinessServices\bin\Release\AutoMapper.Net4.pdb
+C:\Test\DemoApp\BusinessServices\obj\Release\BusinessServices.csprojResolveAssemblyReference.cache
+C:\Test\DemoApp\BusinessServices\obj\Release\BusinessServices.dll
+C:\Test\DemoApp\BusinessServices\obj\Release\BusinessServices.pdb
+C:\Test\DemoApp\BusinessServices\bin\Release\DataModels.dll
+C:\Test\DemoApp\BusinessServices\bin\Release\DataModels.pdb
+C:\Test\DemoApp\BusinessServices\bin\Release\Newtonsoft.Json.dll
+C:\Test\DemoApp\BusinessServices\bin\Release\Newtonsoft.Json.xml

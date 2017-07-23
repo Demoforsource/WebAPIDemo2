@@ -1,0 +1,58 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessServices\bin\Debug\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\AutoMapper.dll
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\DataModel.dll
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\AutoMapper.pdb
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\AutoMapper.xml
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+C:\Test\WebApi\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
+C:\Test\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+C:\Test\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+C:\Test\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+C:\Test\DemoApp\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+C:\Test\DemoApp\BusinessServices\obj\Debug\BusinessServices.dll
+C:\Test\DemoApp\BusinessServices\obj\Debug\BusinessServices.pdb
+C:\Test\DemoApp\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+C:\Test\DemoApp\BusinessServices\bin\Debug\BusinessServices.dll
+C:\Test\DemoApp\BusinessServices\bin\Debug\BusinessServices.pdb
+C:\Test\DemoApp\BusinessServices\bin\Debug\AutoMapper.dll
+C:\Test\DemoApp\BusinessServices\bin\Debug\BusinessEntities.dll
+C:\Test\DemoApp\BusinessServices\bin\Debug\BusinessEntities.pdb
+C:\Test\DemoApp\BusinessServices\bin\Debug\AutoMapper.pdb
+C:\Test\DemoApp\BusinessServices\bin\Debug\AutoMapper.xml
+C:\Test\DemoApp\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+C:\Test\DemoApp\BusinessServices\bin\Debug\DataModels.dll
+C:\Test\DemoApp\BusinessServices\bin\Debug\DataModels.pdb
+C:\Test\DemoApp\BusinessServices\bin\Debug\Newtonsoft.Json.dll
+C:\Test\DemoApp\BusinessServices\bin\Debug\Newtonsoft.Json.xml

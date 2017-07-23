@@ -1,0 +1,79 @@
+body {
+  width: 30%;
+  min-width: 300px;
+  height: 80vh;
+  margin: 20vh auto 0;
+  background: linear-gradient(to left, #FF512F , #DD2476); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #282828;
+}
+
+h1 {
+  color: white;
+}
+
+
+
+
+//Demo styles
+.task {
+  position: relative;
+
+  overflow: hidden;
+  cursor: pointer;
+  
+  perspective: 800px;
+  transform-style: preserve-3d;
+}
+
+.abstract,
+.details {
+  $bg: rgba(white, 1);
+  width: 100%;
+  padding: 15px 30px;
+  position: relative;
+  background: $bg;
+
+  .task:hover & {
+    background: darken($bg, 2%);
+  }
+}
+
+.abstract {
+  //z-index: 10;
+  transition: .3s ease all;
+}
+
+.details {
+  max-height: 0;
+  padding: 0;
+  
+  overflow: hidden;
+  visibility: hidden;
+  
+  transform: rotateX(-180deg);
+  transform-origin: top center;
+  backface-visibility: hidden;
+  transition: .3s transform ease;
+  
+  &:before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 10%;
+    right: 10%;
+    height: 1px;
+    background: grey;
+  }
+  
+  .task:hover & {
+    max-height: none;
+    overflow: visible;
+    visibility: visible;
+    transform: rotateX(0deg);
+  }
+}
+
+.details__inner {
+  padding: 15px 30px;
+}

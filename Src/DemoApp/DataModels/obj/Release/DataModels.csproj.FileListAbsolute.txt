@@ -1,0 +1,7 @@
+C:\Test\DemoApp\DataModels\bin\Release\DataModels.dll
+C:\Test\DemoApp\DataModels\bin\Release\DataModels.pdb
+C:\Test\DemoApp\DataModels\bin\Release\BusinessEntities.dll
+C:\Test\DemoApp\DataModels\bin\Release\BusinessEntities.pdb
+C:\Test\DemoApp\DataModels\obj\Release\DataModels.csprojResolveAssemblyReference.cache
+C:\Test\DemoApp\DataModels\obj\Release\DataModels.dll
+C:\Test\DemoApp\DataModels\obj\Release\DataModels.pdb
